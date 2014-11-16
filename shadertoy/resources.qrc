@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/foo">
+        <file>shaders/deform.f.glsl</file>
+        <file>shaders/flower.f.glsl</file>
+        <file>shaders/fly.f.glsl</file>
+        <file>shaders/heart.f.glsl</file>
+        <file>shaders/julia.f.glsl</file>
+        <file>shaders/kaleidoscope.f.glsl</file>
+        <file>shaders/mandel.f.glsl</file>
+        <file>shaders/relieftunnel.f.glsl</file>
+        <file>shaders/shapes.f.glsl</file>
+        <file>shaders/squaretunnel.f.glsl</file>
+        <file>shaders/star.f.glsl</file>
+        <file>shaders/triangle.f.glsl</file>
+        <file>shaders/triangle.v.glsl</file>
+        <file>shaders/tunnel.f.glsl</file>
+        <file>shaders/twist.f.glsl</file>
+        <file>shaders/zinvert.f.glsl</file>
+        <file>textures/texl0.jpg</file>
+        <file>textures/texl1.jpg</file>
+        <file>textures/texl2.jpg</file>
+        <file>textures/texl3.jpg</file>
+        <file>shaders/grid.f.glsl</file>
+        <file>shaders/boingball.f.glsl</file>
+    </qresource>
+</RCC>
